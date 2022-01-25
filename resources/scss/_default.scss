@@ -1,0 +1,165 @@
+// Body styles.
+body {
+    background: $color-bg-body;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    main {
+        flex: 1;
+    }
+
+    .scrollTop {
+        border-radius: 3px;
+        position: fixed;
+            right: 25px;
+            bottom: 25px;
+        background-color: #FFF;
+        width: 50px;
+        height: 50px;
+        opacity: 0;
+        transition: all 0.2s ease-in-out 0s;
+    }
+
+    .scrollTop a {
+        font-size: 18px;
+        color: $color-primary;
+    }
+}
+// Font styles.
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+    font-family: $font-head;
+}
+
+h1,
+h2 {
+    color: $color-font-heading;
+}
+h3,
+h4 {
+    color: $color-font-heading-alt;
+}
+
+p {
+    color: $color-font-primary;
+    font-family: $font-base;
+    line-height: 160%;
+    margin-bottom: 15px;
+    word-spacing: 1px;
+
+    &:last-of-type {
+        margin: 0;
+    }
+}
+
+a {
+    color: $color-font-a;
+    transition: all .25s ease 0s;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+// Image styles.
+figure {
+    img {
+        height: auto;
+        width: 100%;
+    }
+
+    &.translate-left {
+        position: relative;
+        left: -35px;
+    }
+
+    &.translate-top {
+        position: relative;
+        top: -50px;
+    }
+
+    &.translate-right {
+        position: relative;
+        right: -35px;
+    }
+
+    &.image-full {
+        width: calc(100% + 70px);
+    }
+}
+// Form styles.
+input,
+textarea {
+    border: 1px solid $color-border-form-input;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    display: flex;
+    padding: 7px 15px;
+    margin-bottom: 25px;
+    width: 100%;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+textarea {
+    height: 200px;
+}
+
+label {
+    color: $color-font-primary;
+    display: flex;
+    font-family: $font-base;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+button,
+a.button {
+    background: $color-bg-btn;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    color: $color-font-button;
+    font-family: $font-head;
+    letter-spacing: .5px;
+    opacity: 1;
+    padding: 10px 25px;
+    text-decoration: none !important;
+    transition: all .25s ease 0s;
+
+    &:hover {
+        opacity: .8;
+    }
+}
+// Panel.
+.panel {
+    background: $color-bg-panel;
+    border-radius: 3px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    padding: 35px;
+}
+// Embed container.
+.embed-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+
+    iframe,
+    object,
+    embed,
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+    }
+}

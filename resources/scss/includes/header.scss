@@ -1,0 +1,42 @@
+header {
+    max-height: 150px;
+
+    nav {
+        margin-top: -50px;
+
+        ul {
+            li {
+                font-family: $font-head;
+
+                a {
+                    color: $color-font-header-a;
+                    text-decoration: none !important;
+                    margin-left: 5px !important;
+
+                    &:hover,
+                    &.active {
+                        background: $color-bg-btn;
+                        box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+                        border-radius: 3px;
+                        color: $color-font-button;
+                        font-family: $font-head;
+                        opacity: 1;
+                        text-decoration: none !important;
+                        transition: all .25s ease 0s;
+                    }
+
+                    &:first-of-type {
+                        margin-left: 0;
+                    }
+
+                    &.image {
+                        &:hover {
+                            background: none;
+                            box-shadow: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,41 @@
+// Import Tailwind assests.
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// Import variables and default stylesheets.
+@import '_fonts';
+@import '_variables';
+@import '_default';
+
+// Import site stylesheets and includes.
+@import 'includes/mobile';
+@import 'includes/header';
+@import 'includes/main';
+@import 'includes/aside';
+@import 'includes/footer';
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    .cd-box {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+        p.numbers {
+            font-family: $font-head;
+            margin: 0;
+        }
+
+        p.days {
+            color: $color-primary;
+        }
+
+        p.strings {
+            font-family: $font-base;
+        }
+    }
+}

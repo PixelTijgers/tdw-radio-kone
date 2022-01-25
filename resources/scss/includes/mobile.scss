@@ -1,0 +1,61 @@
+nav.mobile {
+    background: #FFF;
+    border-bottom: 1px solid #CCC;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.35);
+    font-family: $font-head;
+    height: 80px;
+    margin-top: - 35px;
+    margin-bottom: 25px !important;
+    margin-left: -35px;
+    position: relative;
+    width: calc(100% + 70px);
+    z-index: 2;
+
+    @media (min-width: 1024px) {
+        display: none !important;
+    }
+
+    div {
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+        height: 100%;
+        padding: 30px;
+
+        figure {
+            img {
+                margin: 0 !important;
+                position: unset !important;
+
+                @media (min-width: 320px) {
+                    &.poa-small {
+                        height: 70px !important;
+                        width: auto !important;
+                    }
+                }
+            }
+        }
+
+        a {
+            font-size: 24px;
+            padding: 4px 0 3px 10px;
+            margin-right: 0;
+            margin-top: 3px;
+        }
+    }
+
+    ul {
+        box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.35);
+        display: none;
+        background: #FFF;
+        width: 100%;
+        position: relative;
+        z-index: 1;
+        padding: 15px 25px 10px;
+
+        li {
+            font-size: 18px;
+            line-height: 200%;
+        }
+    }
+}
