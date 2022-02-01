@@ -38,7 +38,7 @@
 
         @include('fr.includes.player')
 
-        <h3 class="text-center text-4xl mt-10 mb-6">Seul:</h3>
+        <h3 class="text-center text-4xl mt-10 mb-6">Seulement:</h3>
 
         <div id="countdown" class="lg:px-16">
 
