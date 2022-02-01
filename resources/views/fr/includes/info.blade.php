@@ -1,27 +1,13 @@
 <div class="flex flex-col mt-16 md:mt-10" id="info">
 
-    <figure class="translate-left image-full">
-
-        <img src="{{ asset('img/port-of-antwerp.jpeg') }}" alt="Port of antwerp" />
-
-    </figure>
-
     <h3 class="text-4xl mt-10 mb-5">Info</h3>
 
-    <p>Donderdag 27 januari kunnen alle werknemers van Port of Antwerp & Port of Zeebrugge luisteren naar Radio Mariteam en kijken naar de livestream. De radiomarathon (10u-22u) wordt gepresenteerd door bekende en professionele hosts die de brug slaan tussen onze 2 havens. Onder andere Xavier Taveirne (Radio1) en Michèle Cuvelier (StuBru)  zullen radio brengen die even interessant als plezant is. Terwijl zij muziek, spellen en interviews lanceren vanuit de studio’s in Antwerpen en Zeebrugge, duikt vliegende reporter Linde Merckpoel achter onze schermen en leert ze enkele werknemers kennen. Ex-wielrenners Nico Mattan en Ine Beyen zijn dan weer de deskundige en vlotte begeleiders van ons fietspeloton. Stof genoeg dus voor een bijzondere en entertainende Radio Mariteam! </p>
+    <p>Notez le vendredi 25 février dans votre agenda, car nous serons alors en direct avec  <strong>"KONE On Air"</strong>! </p>
 
-    <p>Zet <strong>Radio Mariteam</strong> alvast in vette letters in je agenda op 27 januari. Aarzel intussen niet om jouw favoriete song aan te vragen. Wil je die aan iemand opdragen of hangt er een verhaal aan vast? <a href="#request">Laat het ons zeker weten!</a> </p>
+    <p>Nous avons décidé de donner à notre kick-off annuel une touche musicale. Attendez-vous à une journée remplie d'excellents tubes et de sujets très variés : d'une mise à jour des activités par le management à des histoires personnelles de et pour les collègues. Nous comptons donc sur vous aussi : partagez vos succès, célébrez des anniversaires, mettez votre équipe à l’honneur, et surtout, demandez votre chanson préférée ! Voulez-vous le dédier à quelqu'un ou y a-t-il une histoire derrière ?  <a href="#request">N'hésitez pas à nous le faire savoir ! </a> </p>
 
-    <figure class="translate-left image-full mt-5 md:mt-10">
+    <p>Nos deux présentateurs professionnels et connus, Bert van Steenberghe et Aurore Schottey Picavet, font enchaîner vos chansons préférées et vous apporteront une note de bonne humeur ! 🎵</p>
 
-        <img src="{{ asset('img/programma.png') }}" alt="Programma Radio Mariteam" />
-
-    </figure>
-
-    <figure class="translate-left image-full mt-5 md:mt-10">
-
-        <img src="{{ asset('img/port-of-zeebrugge.png') }}" alt="Port of Zeebrugge" />
-
-    </figure>
+    <p>La musique nous relie tous et la radio ne connaît pas de frontières, alors où que vous soyez : à la maison, en route, au bureau ou sur site ? Vous pouvez écouter de n'importe où. À une distance physique sûre l'un de l'autre, et pourtant si proche !  <strong>#OneKONEteam</strong></p>
 
 </div>

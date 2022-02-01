@@ -6,11 +6,29 @@
 
         <figure class="md:flex md:justify-end lg:w-3/12">
 
-            <img class="md:w-8/12 lg:w-full" src="{{ asset('img/aurore-picavet.png') }}" alt="Foto van Bert van Steenberghe" />
+            <img class="md:w-8/12 lg:w-full" src="{{ asset('img/bert-van-steenberghe.png') }}" alt="Foto van Bert van Steenberghe" />
 
         </figure>
 
         <div class="lg:w-8/12 -mt-10 ml-10">
+
+            <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 text-right lg:text-left">Bert van Steenberghe</h3>
+
+            <p class="lg:text-lg text-right lg:text-left">Bert van Steenberghe est un présentateur radio chez Studio Brussel. Il utilise également ses connaissances et sa passion pour la musique en tant que DJ. Il prête régulièrement sa voix aux spots et aux annonces de la VRT. Bert n'est pas seulement un présentateur, mais plutôt un créateur de radio. </p>
+
+        </div>
+
+    </div>
+
+    <div class="lg:flex flex-row-reverse mt-10">
+
+        <figure class="md:flex md:justify-end lg:w-3/12">
+
+            <img class="md:w-8/12 lg:w-full" src="{{ asset('img/aurore-picavet.png') }}" alt="Foto van Aurore Picavet" />
+
+        </figure>
+
+        <div class="lg:w-8/12 -mt-10 mr-10">
 
             <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 text-right lg:text-left">Aurore Schottey Picavet</h3>
 
