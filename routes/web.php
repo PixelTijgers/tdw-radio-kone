@@ -16,8 +16,8 @@ use Illuminate\Support\Facades\Route;
 // Page route.
 Route::redirect('/', '/be');
 
-Route::get('/be', 'App\Http\Controllers\HomeControllerBE@index');
-Route::get('/be/disclaimer', function() {
+Route::get('/nl', 'App\Http\Controllers\HomeControllerBE@index');
+Route::get('/nl/disclaimer', function() {
     return view('be.disclaimer');
 });
 
