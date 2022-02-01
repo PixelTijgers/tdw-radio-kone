@@ -23,7 +23,7 @@
                     <li><a class="px-5 py-2 ml-2" href="#request">Request</a></li>
                     <li><a class="px-5 py-2 ml-2" href="#hosts">Hosts</a></li>
                     <li><a class="px-5 py-2 ml-2" href="mailto:help@onekoneteam.be">Help?</a></li>
-                    <li><a class="px-5 py-2 ml-2" href="{{ url('/be') }}">BE</a></li>
+                    <li><a class="px-5 py-2 ml-2" href="{{ url('/nl') }}">NL</a></li>
 
                 </ul>
 

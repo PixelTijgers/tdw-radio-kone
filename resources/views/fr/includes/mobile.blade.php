@@ -19,7 +19,7 @@
         <li><a href="#info">Info</a></li>
         <li><a href="#hosts">Hosts</a></li>
         <li><a href="mailto:help@onekoneteam.be">Help?</a></li>
-        <li><a class="flex image" href="{{ url('/be') }}"><img src="{{ asset('img/belgium.png') }}" alt="Vlag van België" width="30"/></a></li>
+        <li><a href="{{ url('/nl') }}">NL</a></li>
 
     </ul>
 
