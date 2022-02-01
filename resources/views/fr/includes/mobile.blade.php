@@ -15,7 +15,7 @@
     <ul id="mobileNav">
 
         <li><a href="#home">Home</a></li>
-        <li><a href="#request" target="_blank">Request</a></li>
+        <li><a href="#request">Request</a></li>
         <li><a href="#info">Info</a></li>
         <li><a href="#hosts">Hosts</a></li>
         <li><a href="mailto:help@onekoneteam.be">Help?</a></li>
