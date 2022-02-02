@@ -68,7 +68,7 @@
 
 </main>
 
-@include('includes.footer', [
+@include('fr.includes.footer', [
     'companyName' => env('CLIENT_NAME')
 ])
 </body>

@@ -15,9 +15,9 @@
     <ul id="mobileNav">
 
         <li><a href="#home">Home</a></li>
-        <li><a href="#request">Request</a></li>
         <li><a href="#info">Info</a></li>
         <li><a href="#hosts">Hosts</a></li>
+        <li><a href="#request">Your song</a></li>
         <li><a href="mailto:help@onekoneteam.be">Help?</a></li>
         <li><a href="{{ url('/fr') }}">FR</a></li>
 

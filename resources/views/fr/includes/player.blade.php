@@ -8,7 +8,7 @@
 
 <figure class="flex mb-5 mt-5 md:mt-10 md:mb-10" id="home">
 
-    <img src="{{ asset('img/coming-soon.png') }}" alt="Coming soon: Radio Mariteam. Op 27 januari 2022." />
+    <img src="{{ asset('img/coming-soon_fr.png') }}" alt="Coming soon: Kone on air. En 27 février 2022." />
 
 </figure>
 
