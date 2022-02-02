@@ -10,11 +10,11 @@
 
         </figure>
 
-        <div class="lg:w-8/12 -mt-10 ml-10">
+        <div class="lg:w-8/12 mt-8 lg:-mt-10 ml-10">
 
-            <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 text-right lg:text-left">Bert van Steenberghe</h3>
+            <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 lg:text-left">Bert van Steenberghe</h3>
 
-            <p class="lg:text-lg text-right lg:text-left">Bert van Steenberghe est un présentateur radio chez Studio Brussel. Il utilise également ses connaissances et sa passion pour la musique en tant que DJ. Il prête régulièrement sa voix aux spots et aux annonces de la VRT. Bert n'est pas seulement un présentateur, mais plutôt un créateur de radio. </p>
+            <p class="lg:text-lg lg:text-left">Bert van Steenberghe est un présentateur radio chez Studio Brussel. Il utilise également ses connaissances et sa passion pour la musique en tant que DJ. Il prête régulièrement sa voix aux spots et aux annonces de la VRT. Bert n'est pas seulement un présentateur, mais plutôt un créateur de radio. </p>
 
         </div>
 
@@ -28,11 +28,11 @@
 
         </figure>
 
-        <div class="lg:w-8/12 -mt-10 mr-10">
+        <div class="lg:w-8/12 mt-8 lg:-mt-10 mr-10">
 
-            <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 text-right lg:text-left">Aurore Schottey Picavet</h3>
+            <h3 class="text-2xl lg:text-4xl lg:mt-16 mb-5 lg:text-right">Aurore Schottey Picavet</h3>
 
-            <p class="lg:text-lg text-right lg:text-left">Aurore Schottey Picavet est animatrice radio et comédienne pour le théâtre, le cinéma et la télévision. Elle est également active en tant que voix off. Elle parle cinq langues : français, néerlandais, allemand, anglais et espagnol. Elle est mère, joue du violon et se soucie de la durabilité.</p>
+            <p class="lg:text-lg lg:text-right">Aurore Schottey Picavet est animatrice radio et comédienne pour le théâtre, le cinéma et la télévision. Elle est également active en tant que voix off. Elle parle cinq langues : français, néerlandais, allemand, anglais et espagnol. Elle est mère, joue du violon et se soucie de la durabilité.</p>
 
         </div>
 
