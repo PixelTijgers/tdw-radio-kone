@@ -29,7 +29,7 @@
 
     <div class="panel">
 
-        <a href="{{ url()->previous() }}" class="button mb-5">Ga terug</a>
+        <a href="{{ url()->previous() }}" class="button mb-5 lg:mb-0 inline-block">Ga terug</a>
 
         <h3 class="md:mt-16 md:mb-3 md:text-5xl">Disclaimer</h3>
         <p>Laatste update: 25 januari 2022</p>
