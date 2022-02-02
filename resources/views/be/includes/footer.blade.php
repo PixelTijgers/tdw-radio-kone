@@ -1,8 +1,8 @@
 <footer>
 
-    <div class="text-center text-sm	 py-3">
+    <div class="text-center text-sm	py-3">
 
-        <p>&#169 {{ date('Y') }}, KONEONAIR | <a href="nl/disclaimer">Disclaimer</a></p>
+        <p>&#169 {{ date('Y') }}, KONEONAIR | <a href="{{ url('nl/disclaimer') }}">Disclaimer</a></p>
 
     </div>
 
