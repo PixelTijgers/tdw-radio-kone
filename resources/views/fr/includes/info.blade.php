@@ -2,7 +2,7 @@
 
     <div class="md:w-9/12">
 
-        <h3 class="text-4xl mt-10 mb-5">Info</h3>
+        <h3 class="text-4xl md:mt-10 mb-5">Info</h3>
 
         <p>Notez le vendredi 25 février dans votre agenda, car nous serons alors en direct avec  <strong>"KONE On Air"</strong>! </p>
 

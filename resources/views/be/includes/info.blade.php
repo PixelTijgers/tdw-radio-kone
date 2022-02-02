@@ -2,7 +2,7 @@
 
     <div class="md:w-9/12">
 
-        <h3 class="text-4xl mt-10 mb-5">Info</h3>
+        <h3 class="text-4xl md:mt-10 mb-5">Info</h3>
 
         <p>Noteer vrijdag 25 februari met stip in je agenda want dan gaan we live met <strong>"KONE On Air"</strong>! </p>
 
