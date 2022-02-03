@@ -21,7 +21,13 @@ Route::get('/nl/disclaimer', function() {
     return view('be.disclaimer');
 });
 
+// Login route.
+Route::post('/nl/login', 'App\Http\Controllers\HomeControllerBE@login');
+
 Route::get('/fr', 'App\Http\Controllers\HomeControllerFR@index');
 Route::get('/fr/disclaimer', function() {
     return view('fr.disclaimer');
 });
+
+// Login route.
+Route::post('/fr/login', 'App\Http\Controllers\HomeControllerFR@login');

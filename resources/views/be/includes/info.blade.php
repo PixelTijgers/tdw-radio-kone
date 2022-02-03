@@ -6,7 +6,7 @@
 
         <p>Noteer vrijdag 25 februari met stip in je agenda want dan gaan we live met <strong>"KONE On Air"</strong>! </p>
 
-        <p>Onze jaarlijkse kick-off krijgt een muzikaal jasje, dus verwacht je aan een dag vol toffe deuntjes alsook de meest uiteenlopende topics: van een businessupdate door het management tot persoonlijke verhalen van en voor collega’s. We rekenen dus ook op jou: deel je successen, vier verjaardagen, zet je team in de kijker en vraag vooral je favoriete song aan! Wil je deze aan iemand opdragen of hangt er een verhaal aan vast? <a href="#request">Laat het ons zeker weten!</a> </p>
+        <p>Onze jaarlijkse kick-off krijgt een muzikaal jasje, dus verwacht je aan een dag vol toffe deuntjes alsook de meest uiteenlopende topics: van een businessupdate door het management tot persoonlijke verhalen van en voor collega’s. We rekenen dus ook op jou: deel je successen, vier verjaardagen, zet je team in de kijker en vraag vooral je favoriete song aan! Wil je deze aan iemand opdragen of hangt er een verhaal aan vast? <strong><a href="#request">Laat het ons zeker weten!</a></strong> </p>
 
         <p>Onze twee bekende en professionele hosts Bert van Steenberghe en Aurore Schottey Picavet praten jullie favoriete nummers aan elkaar en zorgen voor een vrolijke noot! 🎵</p>
 
